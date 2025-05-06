@@ -1,6 +1,6 @@
 ## Olá! Eu sou Gabriel Souza
 
-- 🔭 Estou procurando oportunidade de estágio em Desenvolvimento Front-end, porém quero muito me tornar um Desenvolvedor Fullstack
+- 🔭 Estou procurando oportunidade de estágio ou júnior em Desenvolvimento Front-end, e tenho como objetivo me tornar um Desenvolvedor Fullstack
 - 🌱 Estou estudando React.js
 - 📫 Contato: Email: gabrielsouzacarvalho69@gmail.com | Telefone (celular): +55 (11) 98995-3938
 
