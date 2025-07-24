@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gabriel Souza
 
 - 🔭 Estou procurando oportunidade de estágio ou júnior em Desenvolvimento Full-Stack
-- 🌱 Estou estudando Web Full-Stack
+- 🌱 Estou estudando Javascript Full-Stack
 - 📫 Contato: Email: gabrielsc411@gmail.com | Telefone (celular): +55 (11) 98995-3938
 
 <div style="display: inline_block"><br>
